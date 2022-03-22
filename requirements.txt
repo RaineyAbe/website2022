@@ -1,0 +1,17 @@
+earthengine_api==0.1.303
+ee==0.4
+geemap==0.11.8
+geopandas==0.10.2
+h5py==3.6.0
+holoviews==1.14.8
+icepyx==0.6.2
+lxml==4.8.0
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.1
+pygmt==0.6.0
+PyYAML==6.0
+rasterio==1.2.10
+requests==2.27.1
+rioxarray==0.10.2
+xarray==0.21.1
